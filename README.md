@@ -23,8 +23,11 @@
 <p id="description">We wholeheartedly welcome contributions from the community. If you're interested in enhancing Bazart, please consult our contribution guide in the CONTRIBUTING.md file.</p>
 <h1>Authors</h1>
 <p id="description">
-  -Maram Arfaoui
-  -Malrk Baccar 
+  -Maram Arfaoui        
+
+  -Malek Baccar 
+  
   -Amira Oueslati 
+  
   -Nada Bahri
 </p>
