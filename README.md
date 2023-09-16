@@ -19,3 +19,12 @@
 -Multimedia Content: Enjoy a diverse range of multimedia content, including high-quality images and engaging videos, allowing you to explore art from every angle.
 
 -Customer Feedback and Support: We value your opinions and aim for continuous improvement. Bazart provides a feedback system, making it easy for users to voice their thoughts and concerns.</p>
+<h1>Contributions</h1>
+<p id="description">We wholeheartedly welcome contributions from the community. If you're interested in enhancing Bazart, please consult our contribution guide in the CONTRIBUTING.md file.</p>
+<h1>Authors</h1>
+<p id="description">
+  -Maram Arfaoui
+  -Malrk Baccar 
+  -Amira Oueslati 
+  -Nada Bahri
+</p>
