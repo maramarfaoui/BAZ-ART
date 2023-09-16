@@ -1,4 +1,5 @@
 # BAZ-ART
+
 This project is an online platform for managing virtual art galleries, allowing artists and art enthusiasts to create, organize, and share their art collections with ease. Our goal is to provide a digital space where art can be explored, appreciated, and showcased while giving artists a platform to present their work to the world.
 
 Key Features
